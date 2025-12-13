@@ -5,7 +5,7 @@
 </head>
 
 # app.cn
- · ![小图标](app.cn.png) [歌曲宝](gequbao.apk)<br>
- · ![小图标](app.cn.png) [全功能编解码器](Full-featured-codec.apk)<br>
- · ![小图标](app.cn.png) [震动器](震动.apk)<br>
- · ![小图标](app.cn.png) [NexBrowse](NexBrowse.apk)
+ · [歌曲宝](gequbao.apk)<br>
+ · [全功能编解码器](Full-featured-codec.apk)<br>
+ · [震动器](震动.apk)<br>
+ · [NexBrowse](NexBrowse.apk)
